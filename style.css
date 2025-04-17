@@ -1,0 +1,19 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('https://images.unsplash.com/photo-1609565113276-1cbb293a0e7d?auto=format&fit=crop&w=1350&q=80');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #fff;
+}
+
+.container {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  margin: 50px auto;
+  max-width: 800px;
+  border-radius: 10px;
+}
